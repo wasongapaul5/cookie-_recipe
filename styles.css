@@ -35,4 +35,10 @@ h2{
 
 .more{
     text-align: center;
+    font-size: 30px;
+    color:red;
+}
+
+body{
+    background-color: #00000054;
 }
